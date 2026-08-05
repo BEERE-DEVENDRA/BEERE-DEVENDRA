@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Beere Devendra
 
-### 🚀 B.Tech CSE Student • DSA Enthusiast • MERN Stack Developer • AI Developer
+### 🚀 B.Tech CSE Student • MERN Stack Developer • DSA problem Solving
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;DSA+Enthusiast;MERN+Stack+Developer;AI+Developer;Building+Projects+That+Solve+Real+Problems" />
 
