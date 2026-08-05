@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Beere Devendra
 
-### 🚀 B.Tech CSE Student | MERN Stack Developer | DSA Enthusiast | AI Learner
+### 🚀 B.Tech CSE Student | MERN Stack Developer | DSA problem solving
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;MERN+Stack+Developer;DSA+Problem+Solver;AI+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
