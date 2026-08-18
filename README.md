@@ -55,10 +55,34 @@ Become a Software Engineer 🚀
 
 # 💻 Tech Stack
 
+### 💻 Programming Languages
+
 <p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,bootstrap,react,nodejs,express,mongodb,git,github,vscode,postman"/>
+### 🌐 Frontend Development
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+### 🛠️ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
