@@ -210,7 +210,7 @@ src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <td width="50%">
 
-<h3 align="center">🏠 StayNest</h3>
+<h3 align="center">🏠 Airbnb</h3>
 
 <p align="center">
 
