@@ -28,8 +28,8 @@ problem-solving and software development skills.
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Developer" width="350"
-src="https://media.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif">
+<img align="right" alt="Developer Coding" width="350"
+src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 🎓 Currently pursuing **B.Tech in Computer Science Engineering** at **Parul University**.
 
@@ -48,6 +48,87 @@ src="https://media.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif">
 🎯 Goal: Become a strong **Software Engineer and Full-Stack Developer**.
 
 <br clear="right"/>
+
+---
+
+<!-- ======================= EDUCATION ======================= -->
+
+# 🎓 Education
+
+<table>
+<tr>
+
+<td width="60%">
+
+### 🎓 B.Tech in Computer Science Engineering
+
+**Parul University**
+
+📍 Vadodara, Gujarat
+
+</td>
+
+<td width="40%" align="center">
+
+### 📊 8.11 / 10.0
+
+**CGPA**
+
+📅 Expected 2028
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="60%">
+
+### 📚 Intermediate — MPC
+
+**Sri Chaitanya Junior College**
+
+📍 Hyderabad, Telangana
+
+</td>
+
+<td width="40%" align="center">
+
+### 📊 92.9%
+
+**Percentage**
+
+📅 2022 – 2024
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="60%">
+
+### 🏫 Matriculation — SSC
+
+**Telangana State Residential School**
+
+📍 Hyderabad, Telangana
+
+</td>
+
+<td width="40%" align="center">
+
+### 📊 9.8 / 10.0
+
+**CGPA**
+
+📅 2022
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -124,6 +205,7 @@ src="https://media.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif">
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%">
@@ -231,6 +313,7 @@ LeetCode • GeeksforGeeks
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -239,17 +322,15 @@ LeetCode • GeeksforGeeks
 
 # 🧠 Data Structures & Algorithms
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/150%2B-Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/DSA-Problem%20Solving-667eea?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</div>
 
-<img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-
-</p>
+<br>
 
 ## 📚 Topics I Practice
 
@@ -257,55 +338,35 @@ LeetCode • GeeksforGeeks
 
 <tr>
 
-<td align="center" width="180">
+<td align="center" width="25%">
 
-### 🔢 Arrays
+🔢
 
-Traversal, searching, manipulation and optimization
-
-</td>
-
-<td align="center" width="180">
-
-### 🔤 Strings
-
-String manipulation, frequency counting and patterns
+### Arrays
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="25%">
 
-### 🗂️ Hashing
+🔤
 
-Hash maps, frequency counting and efficient lookup
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🪟 Sliding Window
-
-Efficient subarray and substring problem solving
+### Strings
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-### 👉 Two Pointers
+🗂️
 
-Optimizing array and string problems
+### Hashing
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-### 🔍 Binary Search
+🔍
 
-Efficient searching and optimization techniques
+### Binary Search
 
 </td>
 
@@ -315,25 +376,33 @@ Efficient searching and optimization techniques
 
 <td align="center">
 
-### 🔄 Sorting
+🪟
 
-Sorting techniques and sorting-based approaches
-
-</td>
-
-<td align="center">
-
-### 🔗 Linked List
-
-Traversal, insertion, deletion and pointer manipulation
+### Sliding Window
 
 </td>
 
 <td align="center">
 
-### 📚 Stack & Queue
+👉
 
-LIFO/FIFO based problem-solving techniques
+### Two Pointers
+
+</td>
+
+<td align="center">
+
+🔄
+
+### Sorting
+
+</td>
+
+<td align="center">
+
+🔗
+
+### Linked List
 
 </td>
 
@@ -343,25 +412,33 @@ LIFO/FIFO based problem-solving techniques
 
 <td align="center">
 
-### 🔁 Recursion
+📚
 
-Recursive problem solving and basic backtracking
-
-</td>
-
-<td align="center">
-
-### ⚡ Algorithms
-
-Efficient and optimized problem-solving approaches
+### Stack & Queue
 
 </td>
 
 <td align="center">
 
-### 🧩 Problem Solving
+🔁
 
-Logic, optimization and edge-case handling
+### Recursion
+
+</td>
+
+<td align="center">
+
+⚡
+
+### Algorithms
+
+</td>
+
+<td align="center">
+
+🧩
+
+### Problem Solving
 
 </td>
 
@@ -369,34 +446,83 @@ Logic, optimization and edge-case handling
 
 </table>
 
----
+<br>
 
-## 📈 DSA Practice
+## 📈 Practice Platforms
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/150%2B-Problems%20Solved-FFA116?style=for-the-badge"/>
+<a href="https://leetcode.com/">
 
-<img src="https://img.shields.io/badge/LeetCode-Regular%20Practice-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GeeksforGeeks-Regular%20Practice-2F8D46?style=for-the-badge"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+</a>
 
 </p>
 
-### 🎯 Currently Improving
+<br>
 
-- ⏱️ Time and Space Complexity
-- 🧠 Algorithmic Thinking
-- 🔍 Identifying Optimal Approaches
-- 🧩 Edge Case Handling
-- 🚀 Writing Clean and Efficient C++ Code
-- 📈 Improving Problem-Solving Speed
+## 🎯 What I Focus On
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="25%">
+
+⏱️
+
+### Complexity
+
+Time & Space Complexity
+
+</td>
+
+<td align="center" width="25%">
+
+🧠
+
+### Logic
+
+Algorithmic Thinking
+
+</td>
+
+<td align="center" width="25%">
+
+🔍
+
+### Optimization
+
+Optimal Approaches
+
+</td>
+
+<td align="center" width="25%">
+
+🧩
+
+### Edge Cases
+
+Robust Solutions
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 <p align="center">
 
-<b>
-💡 Consistency + Practice + Understanding = Better Problem Solving
-</b>
+<b>💡 Practice → Understand → Optimize → Repeat 🚀</b>
 
 </p>
 
@@ -420,47 +546,7 @@ Participated in the **Guidewire DEVTrails University Hackathon 2026**, gaining e
 
 ---
 
-<!-- ======================= EDUCATION ======================= -->
-
-# 🎓 Education
-
-### 🎓 B.Tech in Computer Science Engineering
-
-**Parul University**
-
-📍 Vadodara, Gujarat
-
-📊 **CGPA: 8.11 / 10.0**
-
-📅 Expected Graduation: **2028**
-
----
-
-### 📚 Intermediate — MPC
-
-**Sri Chaitanya Junior College**
-
-📍 Hyderabad, Telangana
-
-📊 **92.9%**
-
-📅 2022 – 2024
-
----
-
-### 🏫 Matriculation — SSC
-
-**Telangana State Residential School**
-
-📍 Hyderabad, Telangana
-
-📊 **CGPA: 9.8 / 10.0**
-
-📅 2022
-
----
-
-<!-- ======================= LEARNING ======================= -->
+<!-- ======================= CURRENTLY LEARNING ======================= -->
 
 # 🌱 Currently Learning
 
