@@ -28,7 +28,8 @@ problem-solving and software development skills.
 
 ## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="350"
+src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 🎓 Currently pursuing **B.Tech in Computer Science Engineering** at **Parul University**.
 
 💻 Passionate about **Full-Stack Web Development** and **Data Structures & Algorithms**.
