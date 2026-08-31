@@ -200,17 +200,9 @@ src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ---
 
-<!-- ======================= PROJECTS ======================= -->
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
 <td width="50%">
 
-<h3 align="center">🏠 Airbnb Clone</h3>
+<h3 align="center">🏠 StayNest</h3>
 
 <p align="center">
 
@@ -219,8 +211,8 @@ src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 </p>
 
 <p>
-A full-stack accommodation booking platform with property listings,
-booking functionality, authentication, search and filtering.
+A full-stack accommodation booking platform for discovering properties,
+managing listings, and handling bookings with secure user authentication.
 </p>
 
 <p>
@@ -232,92 +224,6 @@ Node.js • Express.js • MongoDB • Cloudinary
 </p>
 
 </td>
-
-<td width="50%">
-
-<h3 align="center">🌦️ Weather Application</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/REACT-Project-61DAFB?style=for-the-badge"/>
-
-</p>
-
-<p>
-A responsive weather application that fetches real-time weather
-information using the OpenWeather API.
-</p>
-
-<p>
-<b>Tech Stack</b>
-</p>
-
-<p>
-React.js • OpenWeather API • CSS
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🎵 Spotify Clone</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/FRONTEND-Project-1DB954?style=for-the-badge"/>
-
-</p>
-
-<p>
-A Spotify-inspired responsive user interface with modern layouts,
-interactive elements and responsive design.
-</p>
-
-<p>
-<b>Tech Stack</b>
-</p>
-
-<p>
-HTML • CSS • JavaScript
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🧠 DSA Practice</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/150%2B-Problems-orange?style=for-the-badge"/>
-
-</p>
-
-<p>
-Regularly solving Data Structures and Algorithms problems to improve
-problem-solving and algorithmic thinking.
-</p>
-
-<p>
-<b>Platforms</b>
-</p>
-
-<p>
-LeetCode • GeeksforGeeks
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
 <!-- ======================= DSA ======================= -->
 
 # 🧠 Data Structures & Algorithms
