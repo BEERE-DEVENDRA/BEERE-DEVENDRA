@@ -27,8 +27,8 @@ problem-solving and software development skills.
 <!-- ======================= ABOUT ME ======================= -->
 
 ## 👨‍💻 About Me
-<img align="right" alt="Cyberpunk Developer" width="350"
-src="https://media.tenor.com/LmYXZxR7P0AAAAAC/code.gif">
+<img align="right" alt="Software Engineer" width="350"
+src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 🎓 Currently pursuing **B.Tech in Computer Science Engineering** at **Parul University**.
 
 💻 Passionate about **Full-Stack Web Development** and **Data Structures & Algorithms**.
