@@ -28,8 +28,8 @@ problem-solving and software development skills.
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Developer Coding" width="350"
-src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Developer" width="350"
+src="https://media.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif">
 
 🎓 Currently pursuing **B.Tech in Computer Science Engineering** at **Parul University**.
 
